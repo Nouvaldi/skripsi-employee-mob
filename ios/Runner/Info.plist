@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>We need access to your camera for taking attendance photos</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need access to your location for attendance</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need access to your microphone for attendance</string>
 </dict>
 </plist>
