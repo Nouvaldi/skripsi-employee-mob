@@ -1,16 +1,18 @@
 # employee_mobile
 
-A new Flutter project.
+Skripsi Employee Mobile
 
-## Getting Started
+## How to run
 
-This project is a starting point for a Flutter application.
+1. Make sure Flutter is installed, please check the docs at https://docs.flutter.dev/
+2. Open terminal and run `flutter doctor -v` (just to make sure everything is good)
+3. Run `flutter pub get`
+4. In \lib\config.dart change the baseUrl to the url provided by backend (make sure to remove the / at the end)
+5. Open the command palette or press ctrl + shift + p and type Flutter: Select Device to select a device to run the app
+6. Run `flutter run` to run the app in dev mode
+7. Run `flutter build apk` to build an apk for android
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Small project by:
+2440063050 - Adji Nouvaldi Ramadhan
+2440010391 - Anthony Falah
+2440054185 - Muhammad Rehan
