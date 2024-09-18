@@ -1,6 +1,4 @@
-# employee_mobile
-
-Skripsi Employee Mobile
+# Skripsi emob
 
 ## How to run
 
@@ -13,6 +11,7 @@ Skripsi Employee Mobile
 7. Run `flutter build apk` to build an apk for android
 
 ## Small project by:
-2440063050 - Adji Nouvaldi Ramadhan
-2440010391 - Anthony Falah
-2440054185 - Muhammad Rehan
+
+1. Adji Nouvaldi Ramadhan - 2440063050
+2. Anthony Falah - 2440010391
+3. Muhammad Rehan - 2440054185
