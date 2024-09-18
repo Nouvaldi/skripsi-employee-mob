@@ -1,6 +1,6 @@
 # Skripsi emob
 
-## How to run
+## How to run in vscode
 
 1. Make sure Flutter is installed, please check the docs at https://docs.flutter.dev/
 2. Open terminal and run `flutter doctor -v` (just to make sure everything is good)
